@@ -1,6 +1,6 @@
 # Appointment App
 
-![gif](./public/img/hospital%20app.gif)
+![gif](./public/img/hospital.gif)
 
 - HTML
 
