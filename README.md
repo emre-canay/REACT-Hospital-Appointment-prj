@@ -8,6 +8,6 @@
 
 - JS
 
---REACT JS
+- REACTJS
 
 -https://emre-canay.github.io/REACT-Hospital-Appointment-prj/
